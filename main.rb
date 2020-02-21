@@ -1,5 +1,3 @@
-require 'colorize'
-
 require_relative 'lib/console_interface'
 require_relative 'lib/game'
 
